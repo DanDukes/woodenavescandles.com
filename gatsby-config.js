@@ -1,6 +1,6 @@
 require('dotenv').config({ path: `.env` });
 const flattenMenu = require('@gatsbystorefront/gatsby-theme-storefront-shopify/src/utils/flattenMenu');
-
+//test
 module.exports = {
   plugins: [
     {
