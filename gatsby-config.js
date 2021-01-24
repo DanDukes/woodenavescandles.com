@@ -101,14 +101,14 @@ module.exports = {
           type: 'product',
           handle: 'small-purple-candle',
           textColor: 'White',
-          textBgColor: 'white',
+          textBgColor: 'primary',
         },
         {
           name: 'Small Grey Candle',
           type: 'product',
           handle: 'small-grey-candle',
           textColor: 'White',
-          textBgColor: 'white',
+          textBgColor: 'primary',
         },
       ],
       // Menu types: "header", "collection", "product", "link"
