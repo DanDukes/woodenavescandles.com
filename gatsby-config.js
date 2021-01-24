@@ -146,6 +146,10 @@ module.exports = {
           name: 'Refunds',
           link: '/policy/refundPolicy',
         },
+        {
+          name: 'Website by Dan DeGeare',
+          link: 'http://www.degeare.com',
+        },
       ],
       locales: 'en-US',
       currency: 'USD',
